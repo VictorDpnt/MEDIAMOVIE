@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.20248d81.css",
+    "main.js": "/static/js/main.ecf3f608.js",
+    "static/media/interstelar.jpeg": "/static/media/interstelar.d0bd40e06706a42c2757.jpeg",
+    "static/media/onepiece.jpeg": "/static/media/onepiece.015d9f688496da705556.jpeg",
+    "static/media/dune.jpeg": "/static/media/dune.11633e1faea44ec83a07.jpeg",
+    "static/media/avatarbg.jpeg": "/static/media/avatarbg.54208e379ccbdd4b8f75.jpeg",
+    "index.html": "/index.html",
+    "main.20248d81.css.map": "/static/css/main.20248d81.css.map",
+    "main.ecf3f608.js.map": "/static/js/main.ecf3f608.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.20248d81.css",
+    "static/js/main.ecf3f608.js"
+  ]
+}
